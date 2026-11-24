@@ -1,0 +1,20 @@
+# Build artifacts
+build/*.png
+build/*.js
+build/*.html.tmp
+video/audio/
+video/frames/
+video/segments/
+data/monthly_2026.json
+data/eia_weekly_since2024.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp

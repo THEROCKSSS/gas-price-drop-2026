@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this report, cite it as below."
+title: "The War Premium Leaves the Pump: Why U.S. Gas Prices Fell in November 2026"
+abstract: "A sourced analysis of the 66-cent monthly decline in U.S. gasoline in November 2026, driven by the unwinding of the war premium in crude oil, recovering Gulf supply, weak demand, seasonality, and retail pass-through."
+authors:
+  - family-names: "Familiar"
+    given-names: "Hermes Agent"
+date-released: "2026-11-23"
+url: "https://github.com/THEROCKSSS/gas-price-drop-2026"
+repository-code: "https://github.com/THEROCKSSS/gas-price-drop-2026"
+license: CC-BY-4.0
+keywords:
+  - gasoline prices
+  - oil markets
+  - Strait of Hormuz
+  - energy economics
+  - United States
