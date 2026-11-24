@@ -179,7 +179,7 @@ By the EIA's weekly series, the four weeks ending November 16 produced a **47.9-
 
 The top of that leaderboard is still 2008: eight of the ten largest four-week declines in the modern series occurred in October, November, and December of that year, when crude fell from $147 to $34 and gasoline followed. The 2022 post-invasion spike produced the other two. This year's move is large, but it is a **retracement of a war spike**, not a demand collapse.
 
-The upward move was even more unusual. The four weeks ending March 23, 2026, produced a **$1.02 increase — the largest four-week increase since 1990**. The four weeks ending March 30 were second, and the four weeks ending March 16 were third.[6] In other words, the U.S. gasoline market experienced one of its sharpest war shocks and one of its sharpest November reversals in the same year.
+The upward move was even more unusual. The four weeks ending March 23, 2026, produced a **$1.02 increase — the largest four-week increase since 1990**. The four weeks ending March 30 were second; March 16 was fourth.[6] In other words, the U.S. gasoline market experienced one of its sharpest war shocks and one of its sharpest November reversals in the same year.
 
 ---
 
