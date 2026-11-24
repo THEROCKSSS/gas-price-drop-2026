@@ -2,6 +2,8 @@
 
 A sourced research report on the 66-cent collapse in U.S. gasoline — with an interactive HTML edition, a print PDF, and a narrated video.
 
+**Live report:** <https://therocksss.github.io/gas-price-drop-2026/>
+
 **Snapshot:** November 23, 2026, 7:25 PM Mountain Time. Live prices will change.
 
 ---
@@ -25,6 +27,7 @@ The relief is fragile. Diesel is **$5.8182** — up **53.4%** year on year and o
 
 | File | What it is |
 |---|---|
+| **[Live report](https://therocksss.github.io/gas-price-drop-2026/)** | The interactive HTML edition, served by GitHub Pages. |
 | [`index.html`](index.html) | Interactive single-file report. Opens in any browser; no server, build step, or network needed. |
 | [`report.pdf`](report.pdf) | Nine-page print edition with a light theme. |
 | [`report/GAS-PRICE-DROP-2026.md`](report/GAS-PRICE-DROP-2026.md) | Full Markdown report (~3,700 words) with 19 numbered sources. |
